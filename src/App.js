@@ -63,7 +63,7 @@ function App() {
       <div className="row justify-content-center">
         <div className="col-md-8">
           <div className="card">
-            <div className="card-header">Multi-Step Form</div>
+            <div className="card-header">Multi Step Form for Pivot Index Calculation</div>
             <div className="card-body">
               {step === 1 && (
                 <StepOne
