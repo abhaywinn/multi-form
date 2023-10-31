@@ -3,7 +3,7 @@ import React from "react";
 const StepTwo = ({ numbers, setNumbers, removeNumberField }) => {
   return (
     <div>
-      <h2>Step 2: Input Numbers</h2>
+      <h2>Step 2: Users Input Numbers</h2>
       {numbers.map((num, index) => (
         <div className="row">
           <div key={index} className="form-group">

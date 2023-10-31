@@ -19,7 +19,7 @@ const StepOne = ({ firstName, lastName, setFirstName, setLastName }) =>{
 
   return (
     <div>
-      <h2>Step 1: Personal Information</h2>
+      <h2>Step 1: Users Information</h2>
       <div className="row">
         <div className="form-group col-md-6">
           <input
